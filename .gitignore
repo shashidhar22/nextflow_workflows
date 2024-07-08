@@ -1,0 +1,16 @@
+# Nextflow configs
+nextflow.config
+*.keys
+*.nextflow*
+.nextflow
+
+# R files
+.RData
+.Rhistory
+
+# Python files
+.ipynb_checkpoints
+
+
+
+
