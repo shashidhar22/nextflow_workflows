@@ -1,7 +1,7 @@
 # Nextflow configs
 nextflow.config
 *.keys
-*.nextflow*
+.nextflow.log.*
 .nextflow
 
 # R files
