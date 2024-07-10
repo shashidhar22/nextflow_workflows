@@ -3,7 +3,7 @@ nextflow.config
 *.keys
 .nextflow.log.*
 .nextflow
-
+*.yaml
 # R files
 .RData
 .Rhistory
@@ -11,6 +11,8 @@ nextflow.config
 # Python files
 .ipynb_checkpoints
 
+# Run scripts
+*.sh
 
 
 
